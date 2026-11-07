@@ -1,0 +1,6 @@
+interface:
+  display_name: "论文方法图"
+  short_description: "从论文方法设计有层次的科学流程图，生成可编辑PPT并检查内容与连线"
+  default_prompt: "使用 $paper-method-diagram 阅读这篇论文的方法，设计并生成内容准确、层次清楚的可编辑论文流程图。"
+policy:
+  allow_implicit_invocation: true
